@@ -11,11 +11,11 @@
 I'm a CS and Business student at the University of Waterloo, a [full stack wizard](https://lazertechnologies.com/blog/how-to-add-localization-to-your-nextjs-app), and a growing [hackathon fanatic](https://devpost.com/davidmcnamee314?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav). Currently looking for a *Winter 2020* internship.
 
 
-- 🇨🇦 I live in Toronto, Canada
-- 🔭 I'm really good at Fullstack and Systems Design at scale
-- 🌱 I’m super interested in Deep Learning
-- 💬 Ask me about Typescript, Rust, React Native, Terraform
-- 📫 How to reach me: [@davidmcnamee](https://www.linkedin.com/in/david-mcnamee-866170145/)
-- 😄 Pronouns: he/him
-- 🎧 Listening to: Data Skeptic podcast
-- ⚡ Fun fact: I'm a certified [Pokémon Master](https://www.durhamregion.com/community-story/3503525-pokemon-dreams-coming-true-in-pickering/)
+- 🇨🇦 &nbsp; I live in Toronto, Canada
+- 🔭 &nbsp; I'm really good at Fullstack and Systems Design at scale
+- 🌱 &nbsp; I’m super interested in Deep Learning
+- 💬 &nbsp; Ask me about Typescript, Rust, React Native, Terraform
+- 📫 &nbsp; How to reach me: [@davidmcnamee](https://www.linkedin.com/in/david-mcnamee-866170145/)
+- 😄 &nbsp; Pronouns: he/him
+- 🎧 &nbsp; Listening to: Data Skeptic podcast
+- ⚡&nbsp; Fun fact: I'm a certified [Pokémon Master](https://www.durhamregion.com/community-story/3503525-pokemon-dreams-coming-true-in-pickering/)
