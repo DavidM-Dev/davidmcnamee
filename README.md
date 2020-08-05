@@ -15,7 +15,7 @@ I'm a Computer Science and Business student at the University of Waterloo, a [fu
 - 🔭 &nbsp; I do a lot of Fullstack Dev and Systems Design at scale
 - 🌱 &nbsp; I’m super interested in Deep Learning
 - 💬 &nbsp; Ask me about Typescript, Rust, React Native, Terraform
-- 📫 &nbsp; How to reach me: [@davidmcnamee](https://www.linkedin.com/in/david-mcnamee-866170145/)
+- 📫 &nbsp; How to reach me: [@davidmcnamee](https://www.linkedin.com/in/david-mcnamee)
 - 😄 &nbsp; Pronouns: he/him
 - 🎧 &nbsp; Listening to: Data Skeptic podcast
 - ⚡&nbsp; Fun fact: I'm a certified [Pokémon Master](https://www.durhamregion.com/community-story/3503525-pokemon-dreams-coming-true-in-pickering/)
