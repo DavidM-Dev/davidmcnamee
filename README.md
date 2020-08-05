@@ -1,7 +1,7 @@
 <h1 align="center">:zap: Hi, I'm David McNamee :zap:</h1>
 <h4 align="center">
 <a href="https://davidmcnamee.xyz">Portfolio (todo)</a> &bull; 
-<a href="https://www.linkedin.com/in/david-mcnamee-866170145/">Linkedin</a> &bull; 
+<a href="https://www.linkedin.com/in/david-mcnamee">Linkedin</a> &bull; 
 <a href="https://github.com/davidmcnamee">Github</a> &bull;
 <a href="https://devpost.com/davidmcnamee314?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav">Devpost</a>
 </h4>
