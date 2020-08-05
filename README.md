@@ -8,7 +8,7 @@
 
 ---
 
-I'm a Computer Science and Business student at the University of Waterloo, a [seasoned full stack dev](https://lazertechnologies.com/blog/how-to-add-localization-to-your-nextjs-app), and a growing [hackathon fanatic](https://devpost.com/davidmcnamee314?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav). Currently looking for a **Winter 2021** co-op job.
+I'm a Computer Science and Business student at the University of Waterloo, a seasoned [full stack dev](https://lazertechnologies.com/blog/how-to-add-localization-to-your-nextjs-app), and a growing [hackathon fanatic](https://devpost.com/davidmcnamee314?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav). Currently looking for a **Winter 2021** co-op job.
 
 
 - 🇨🇦 &nbsp; I live in Toronto, Canada
