@@ -18,4 +18,4 @@ I'm a Computer Science and Business student at the University of Waterloo, a sea
 - 📫 &nbsp; How to reach me: [@davidmcnamee](https://www.linkedin.com/in/david-mcnamee)
 - 😄 &nbsp; Pronouns: he/him
 - 🎧 &nbsp; Listening to: Data Skeptic podcast
-- ⚡&nbsp; Fun fact: I'm a certified [Pokémon Master](https://www.durhamregion.com/community-story/3503525-pokemon-dreams-coming-true-in-pickering/)
+- ⚡&nbsp; Fun fact: I'm a former [Pokémon Master](https://www.durhamregion.com/community-story/3503525-pokemon-dreams-coming-true-in-pickering/)
