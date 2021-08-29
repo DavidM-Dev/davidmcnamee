@@ -11,7 +11,7 @@ I'm a Computer Science and Business student at the University of Waterloo, a sof
 
 
 - 🇨🇦 &nbsp; I live in Toronto, Canada
-- 🔭 &nbsp; I do a lot of Fullstack Dev and Systems Design at scale
+- 🔭 &nbsp; I work on Fullstack Dev and Systems Design at scale
 - 🌱 &nbsp; I’m super interested in Deep Learning
 - 💬 &nbsp; Ask me about Typescript, Rust, React Native, Terraform
 - 📫 &nbsp; How to reach me: [@davidmcnamee](https://www.linkedin.com/in/david-mcnamee)
