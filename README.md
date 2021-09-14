@@ -14,9 +14,9 @@ I'm a Computer Science and Business student at the University of Waterloo, a sof
 
 - 🇨🇦 &nbsp; I live in Toronto, Canada
 - 🔭 &nbsp; I work on Fullstack development and Systems Design at scale
-- 🌱 &nbsp; I’m super interested in Deep Learning
+- 🌱 &nbsp; I’m super interested in Distributed Systems
 - 💬 &nbsp; Ask me about Typescript, Rust, React Native, Terraform
 - 📫 &nbsp; How to reach me: [@davidmcnamee](https://www.linkedin.com/in/david-mcnamee)
 - 😄 &nbsp; Pronouns: he/him
-- 🎧 &nbsp; Listening to: Data Skeptic podcast
-- ⚡&nbsp; Fun fact: I'm a former [Pokémon Master](https://www.durhamregion.com/community-story/3503525-pokemon-dreams-coming-true-in-pickering/)
+- 🎧 &nbsp; Listening to: Invest Like the Best podcast
+- ⚡&nbsp; Fun fact: I'm a former [Pokémon Champion](https://www.durhamregion.com/community-story/3503525-pokemon-dreams-coming-true-in-pickering/)
