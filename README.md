@@ -9,7 +9,7 @@
 
 ---
 
-I'm a Computer Science and Business student at the University of Waterloo, a software engineer, and a growing hackathon fanatic. Currently looking for **Summer 2022** internships.
+I'm a Computer Science and Business student at the University of Waterloo, a software engineer, and a growing hackathon fanatic. Currently looking for **Fall 2022** internships.
 
 
 - 🇨🇦 &nbsp; I live in Toronto, Canada
