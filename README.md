@@ -18,4 +18,3 @@ I'm a Computer Science and Business student at the University of Waterloo, a sof
 - 💬 &nbsp; Ask me about Typescript, Rust, React Native, Terraform
 - 📫 &nbsp; How to reach me: [@davidmcnamee](https://www.linkedin.com/in/david-mcnamee)
 - 😄 &nbsp; Pronouns: he/him
-- ⚡&nbsp; Fun fact: I'm a former [Pokémon Champion](https://www.durhamregion.com/community-story/3503525-pokemon-dreams-coming-true-in-pickering/)
