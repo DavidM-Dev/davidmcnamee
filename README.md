@@ -1,5 +1,3 @@
-![Code Time](https://img.shields.io/endpoint?style=social&url=https://codetime-api.datreks.com/badge/988?logoColor=dark%26project=%26recentMS=604800000%26showProject=true)
-
 <h1 align="center">:zap: Hi, I'm David McNamee :zap:</h1>
 <h4 align="center">
 <a href="https://davidmcnamee.xyz">Portfolio</a> &bull; 
