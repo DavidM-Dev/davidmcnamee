@@ -7,7 +7,7 @@
 
 ---
 
-I'm a Computer Science and Business student at the University of Waterloo; previously an intern at Robinhood, Meta, Wish, and Lazer. Currently looking for entry-level SWE jobs starting **May 2023**.
+I'm a Computer Science and Business student at the University of Waterloo; previously a SWE intern at Robinhood, Meta, Wish, and Lazer. Currently looking for entry-level SWE jobs starting **May 2023**.
 
 
 - 🇨🇦 &nbsp; I live in Toronto, Canada
